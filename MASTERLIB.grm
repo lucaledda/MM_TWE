@@ -1,0 +1,2 @@
+PARTNUMBER;CLASS;MODEL_FILE;SHAPE;PIN_CNT;VALUE;PTOL;NTOL;SPLIT;POLARITY
+%key_partnumber%;%class%;%model_file%;%shape%;%pin_cnt%;%value%;%ptol%;%ntol%;%split%;%polarity%
