@@ -1,2 +1,2 @@
-# masterlib
-TestWay Express master library - Component classification by PartNumber (MM proprietary use).
+# TestWay Customization
+TestWayExpress - MM customization involving proprietary masterlib and scripts
