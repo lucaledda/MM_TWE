@@ -1,3 +1,6 @@
+// To compile the cpp for windows 64 bits
+// i686-w64-mingw32-g++ -static-libgcc -static-libstdc++ -o BOM_TWE_Generator.exe BOM_TWE_Generator.cpp 
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string>
