@@ -1,9 +1,2 @@
-Files:
-	- MASTERLIB.CSV
-	- MASTERIB.grm
-	- schema.ini
-	to be imported within C:/TestWay/Data/MARELLI/LIB1/
-
-File:
-	- visalib.ini
-	to be imported within C:/TestWay/Data/MARELLI/SMU3/
+- Unzip MARELLI.zip and move into C:/TestWay/Data
+- Move visalib.ini into C:/TestWay
