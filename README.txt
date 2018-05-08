@@ -1,2 +1,2 @@
 - Unzip MARELLI.zip and move into C:/TestWay/Data
-- Move visalib.ini into C:/TestWay
+- Move visalib.ini and BoardView.ini into C:/TestWay
