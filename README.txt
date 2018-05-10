@@ -10,7 +10,7 @@ Postcondition : TestWay environment interacting with MM remote data.
 *** How To ***
 To use this environment :
 1) unzip MARELLI.zip into C:\TestWay\Data\ folder.
-2) move BoardView.ini into visalib.ini within C:\TestWay folder.
+2) move BoardView.ini into visalib.ini within C:\TestWay\ folder.
 3) Launch the setup.exe script in any point of the filesystem to remotely interact with the golden data and create new local projects environment.
 
 *** Notes ***
