@@ -11,7 +11,7 @@ Postcondition : TestWay environment interacting with MM remote data.
 To use this environment :
 1) Unzip MARELLI.zip into C:\TestWay\Data\ folder.
 2) Move "BoardView.ini" and "visalib.ini" into C:\TestWay\ folder.
-3) Launch the setup.exe script (you can launch from any folder within your PC, it works with absolute paths).
+3) Launch the script.exe (you can launch from any folder within your PC, it works with absolute paths).
 
 *** Notes ***
 MARELLI folder contains :
